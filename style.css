@@ -1,0 +1,65 @@
+.container{
+    width: 250px;
+    height: 150px;
+    border: black 3px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.into{
+    border-radius: 50%;
+    background-color: red;
+    width: 75px;
+    height: 75px;
+
+
+
+
+}
+.container-1{
+    width: 250px;
+    height: 250px;
+    border:black 3px solid;
+    margin-right: 100px;
+    border-radius: 10%;
+    .
+
+    
+}
+.instagram{ width: 250px; height: 250px; border-radius: 10%; display: flex; align-items: center; justify-content: center;
+    background: #f09433; 
+  background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+  background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+  background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    }
+.inst{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 100%;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    border: white 3px solid;
+    
+}
+.ins{
+    border: purple 5px solid;
+    width: 250px;
+    height: 250px;
+    border-radius: 9%;
+
+}
+
+ 
+
+
+
+
+
+
+
+  
